@@ -16,7 +16,7 @@ function ShopItemFunc (props) {
                 <div className="highlight-window mobile">
                     <div className="highlight-overlay"></div>
                 </div>
-                <div className="divider">------------------------</div>
+                <div className="divider"></div>
                 <div className="purchase-info">
                     <div className="price">{props.item.currency}{price}</div>
                     <button>Добавить в корзину</button>
